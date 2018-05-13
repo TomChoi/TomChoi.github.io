@@ -16,10 +16,10 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "ko"
-title                    : "Tom's Tech Blog"
+title                    : "Tom's Blog"
 title_separator          : "-"
 name                     : "Tom Choi"
-description              : "I'm an Software Engineer."
+description              : "I'm a Developer."
 url                      : "https://tomchoi.github.io/"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "TomChoi/TomChoi.github.io"
